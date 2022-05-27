@@ -1,8 +1,14 @@
-/*const buildString = (numOfSpaces, numOfPoundsChar) => {
-  const spaces = " ";
-  const pounds = "#";
-  return `${spaces.repeat(numOfSpaces)}${pounds.repeat(numOfPoundsChar)}`;
-};
+/*
+Exercise 2-1
+
+Using only single-character output statements that output a hash mark,
+a space, or an end-of-line symbol, write a program that outputs the
+following shape:
+
+########
+ ######
+  ####
+   ##
 */
 
 const exc = () => {

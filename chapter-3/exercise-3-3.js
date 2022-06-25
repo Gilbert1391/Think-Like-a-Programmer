@@ -1,3 +1,9 @@
+/*
+Write a bool function that is passed an array of numbers and
+determines whether the data in the array is sorted. 
+This should require only one pass.
+*/
+
 const isDatasetSorted = (data) => {
   let result = true;
   const lastElement = data.length - 1;
